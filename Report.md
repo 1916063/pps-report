@@ -71,16 +71,197 @@ int main()
 printf("hello world")
 return 0;
 }
-```c
+```
 Output of the program
 ```c
 hello world
-```c
-
+```
+------
 # Program no.:-2
 Write a code to print 
-
-
-
-
-
+Input of the program
+output of the program
+-----------
+# Program no.:-
+Input of the program
+output of the program
+--------
+# Program no.:-
+Input of the program
+output of the program
+-------
+# Program no.:-
+Input of the program
+output of the program
+----------
+# Program no.:-
+Input of the program
+output of the program
+---------
+# Program no.:-
+Input of the program
+output of the program
+----------
+# Program no.:-
+Input of the program
+output of the program
+-----------
+# Program no.:-
+Input of the program
+output of the program
+----------
+# Program no.:-
+Input of the program
+output of the program
+---------
+# Program no.:-
+Input of the program
+output of the program
+------------
+# Program no.:-
+Input of the program
+output of the program
+-----------
+# Program no.:-
+Input of the program
+output of the program
+----------
+# Program no.:-
+Input of the program
+output of the program
+----------
+# Program no.:-
+Input of the program
+output of the program
+------------
+# Program no.:-
+Input of the program
+output of the program
+---------
+# Program no.:-
+Input of the program
+output of the program
+--------
+# Program no.:-
+Input of the program
+output of the program
+---------
+# Program no.:-
+Input of the program
+output of the program
+----------
+# Program no.:-
+Input of the program
+output of the program
+----------------
+# Program no.:-
+Input of the program
+output of the program
+------------
+# Program no.:-
+Input of the program
+output of the program
+----------
+# Program no.:-
+Input of the program
+output of the program
+----------
+# Program no.:-
+Input of the program
+output of the program
+--------
+# Program no.:-
+Input of the program
+output of the program
+-------
+# Program no.:-
+Input of the program
+output of the program
+--------
+# Program no.:-
+Input of the program
+output of the program
+--------
+# Program no.:-
+Input of the program
+output of the program
+----------
+# Program no.:-
+Input of the program
+output of the program
+-----
+# Program no.:-
+Input of the program
+output of the program
+------
+# Program no.:-
+Input of the program
+output of the program
+--------
+# Program no.:-
+Input of the program
+output of the program
+------
+# Program no.:-
+Input of the program
+output of the program
+-------
+# Program no.:-
+Input of the program
+output of the program
+-------------
+# Program no.:-
+Input of the program
+output of the program
+-----------------
+# Program no.:-
+Input of the program
+output of the program
+-------------
+# Program no.:-
+Input of the program
+output of the program
+-------------
+# Program no.:-
+Input of the program
+output of the program
+-----------
+# Program no.:-
+Input of the program
+output of the program
+-----------
+# Program no.:-
+Input of the program
+output of the program
+----------------
+# Program no.:-
+Input of the program
+output of the program
+------------------
+# Program no.:-
+Input of the program
+output of the program
+-------------
+# Program no.:-
+Input of the program
+output of the program
+------------
+# Program no.:-
+Input of the program
+output of the program
+------------
+# Program no.:-
+Input of the program
+output of the program
+------------
+# Program no.:-
+Input of the program
+output of the program
+---------
+# Program no.:-
+Input of the program
+output of the program
+----------
+# Program no.:-
+Input of the program
+output of the program

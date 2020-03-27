@@ -60,5 +60,15 @@ Section:-A2
 
 
 
+-------------
+# Program no. :- 1
+Write a code to pint hello world
+```c
+#include<stdio.h>
+int main()
+{
+
+
+
 
 

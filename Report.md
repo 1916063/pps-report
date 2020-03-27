@@ -1,7 +1,6 @@
-![gne]
-
-#Programming for problem solving(ESC-105)
-
+![gne](https://user-images.githubusercontent.com/59995295/77767494-2c931300-7067-11ea-9b1f-136608912a79.jpg)
+# Programming for problem solving(ESC-105)
+------------
 Submitted by:-Roseleen kaur
 
 Class Rollno.:-1916063
@@ -15,8 +14,9 @@ Batch:-2019-2023
 Section:-A2
 
 
+-----------
+# INDEX
 
-#INDEX
 1. Write a code to print hello world.
 2. Write a code to print big C.
 3. Write a code to print the addition of two numbers.

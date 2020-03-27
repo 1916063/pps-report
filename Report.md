@@ -24,39 +24,39 @@ Section:-A2
 5. Write a code to print the character in a reverse way.
 6. Write a code to print the area and perimeter of the rectangle.
 7. Write a code to print 
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
+8. Write a code to print 
+9. Write a code to print 
+10. Write a code to print 
+11. Write a code to print 
+12. Write a code to print 
+13. Write a code to print 
+14. Write a code to print 
+15. Write a code to print 
+16. Write a code to print 
+17. Write a code to print 
+18. Write a code to print 
+19. Write a code to print 
+20. Write a code to print 
+21. Write a code to print 
+22. Write a code to print 
+23. Write a code to print 
+24. Write a code to print 
+25. Write a code to print 
+26. Write a code to print 
+27. Write a code to print 
+28. Write a code to print 
+29. Write a code to print 
+30. Write a code to print 
+31. Write a code to print 
+32. Write a code to print 
+33. Write a code to print 
+34. Write a code to print 
+35. Write a code to print 
+36. Write a code to print 
+37. Write a code to print 
+38. Write a code to print 
+39. Write a code to print 
+40. Write a code to print 
 
 
 

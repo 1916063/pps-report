@@ -15,5 +15,9 @@ Section:-A2
 
 
 ---------
-INDEX
+#INDEX
+1. write a code to print hello world.
+2. write a code to print big C.
+3. write a code 
+
 

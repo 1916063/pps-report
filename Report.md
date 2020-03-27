@@ -62,11 +62,23 @@ Section:-A2
 
 -------------
 # Program no. :- 1
-Write a code to pint hello world
+Write a code to print hello world
+Input of the program
 ```c
 #include<stdio.h>
 int main()
 {
+printf("hello world")
+return 0;
+}
+```c
+Output of the program
+```c
+hello world
+```c
+
+# Program no.:-2
+Write a code to print 
 
 
 

@@ -108,8 +108,10 @@ return 0;
 }
 ```
 ### output of the program
+```c
 enter any two numbers: 2 4
 sum of two numbers:6
+```
 --------
 # Program no.:-4
 Write a code to print the smallest number.
@@ -177,11 +179,12 @@ return 0;
 }
 ```
 ### Output of the program
+```c
 Enter Height: 24
 Enter Bredth: 60
 Area of Sqare (or) Rectangle: = 1440.000
 Perimeter of Sqare (or) Rectangle: = 168.000
-
+```
 
 ---------
 # Program no.:-7

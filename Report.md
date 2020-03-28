@@ -23,47 +23,42 @@ Section:-A2
 4. Write a code to print the smallest number.
 5. Write a code to print the character in a reverse way.
 6. Write a code to print the area and perimeter of the rectangle.
-7. Write a code to print  a factorial
-8. Write a code to print to check the timings
-9. Write a code to print farnehite to centrigrade
-10. Write a code to print the table of any number
-11. Write a code to print program of the prime numbers
-12. Write a code to print program of the swap of numbers using temporary variables
-13. Write a code to print program of area and perimeter of the circle
-14. Write a code to print program to find interest 
-15. Write a code to print program to find maximum number
-16. Write a code to print program to find minimum number
-17. Write a code to print program to find a power of number
-18. Write a code to print program to find square of number
-19. Write a code to print program to find the swap of number without using temporary variables
-20. Write a code to print program to use arithmetic operators
-21. Write a code to print program to use assignment operators
-22. Write a code to print program to use operator precedence
-23. Write a code to print program to find average
-24. Write a code to print program for addition of 2*2 matrices
-25. Write a code to print 
-26. Write a code to print 
-27. Write a code to print 
-28. Write a code to print 
-29. Write a code to print 
-30. Write a code to print 
-31. Write a code to print 
-32. Write a code to print 
-33. Write a code to print 
-34. Write a code to print 
-35. Write a code to print 
-36. Write a code to print 
-37. Write a code to print 
-38. Write a code to print 
-39. Write a code to print 
-40. Write a code to print 
+7. Write a code to print  a factorial.
+8. Write a code to print to check the timings.
+9. Write a code to print farnehite to centrigrade.
+10. Write a code to print the table of any number.
+11. Write a code to print program of the prime numbers.
+12. Write a code to print program of the swap of numbers using temporary variables.
+13. Write a code to print program of area and perimeter of the circle.
+14. Write a code to print program to find interest .
+15. Write a code to print program to find maximum number.
+16. Write a code to print program to find minimum number.
+17. Write a code to print program to find a power of number.
+18. Write a code to print program to find square of number.
+19. Write a code to print program to find the swap of number without using temporary variables.
+20. Write a code to print program to use arithmetic operators.
+21. Write a code to print program to use assignment operators.
+22. Write a code to print program to use operator precedence.
+23. Write a code to print program to find average.
+24. Write a code to print program for addition of 2*2 matrices.
+25. Write a code to print program to take 5 values from the user and store them in an array and print the elements.
+26. write a code to print program the number is even or odd using if-else loop . 
+27. write a code to print program for sum of first natural numbers using for loop.
+28. write a code to print Fizzbuzz of a integer.
+29. write a code to print  Program of FizzBuzz in a continues loop.
+30. Write a computer program in C, to print nth term, and sum up to nth term for series.
+31. Write a computer program in C, which take integer input from user. If entered value > 10, it will call a function, which prints multiplication table of of entered number, from 1 to 10.
+32. write a code to print program of game of life.
+33. Write a C Program to Check Whether a Number is Positive or Negative .
+34.  write a C Program to Display Characters from A to Z Using Loop.
+
 
 
 
 -------------
 # Program no. :- 1
 Write a code to print hello world
-Input of the program
+### Input of the program
 ```c
 #include<stdio.h>
 int main()
@@ -80,7 +75,7 @@ hello world
 # Program no.:-2
  Write a code to print big C.
 
-Input of the program
+### Input of the program
 ```c
 #include<stdio.h>
 int main()
@@ -99,7 +94,7 @@ puts(" ######");
 -----------
 # Program no.:-3
 Write a code to print the addition of two numbers.
-###Input of the program
+### Input of the program
 ```c
 #include <stdio.h>
 int main()
@@ -112,13 +107,13 @@ printf("Sum of two numbers:%d",z);
 return 0;
 }
 ```
-###output of the program
+### output of the program
 enter any two numbers: 2 4
 sum of two numbers:6
 --------
 # Program no.:-4
 Write a code to print the smallest number.
-###Input of the program
+### Input of the program
 ```c
 #include<stdio.h>
 int main(void)
@@ -147,7 +142,7 @@ return 0;
 -------
 # Program no.:-5
 Write a code to print the character in a reverse way.
-###Input of the program
+### Input of the program
 ```c
 #include<stdio.h>
 int main(void)
@@ -164,7 +159,7 @@ return(0);
 ----------
 # Program no.:-6
 Write a code to print the area and perimeter of the rectangle.
-###Input of the program
+### Input of the program
 ```C
 #include<stdio.h>
 int main()
@@ -191,7 +186,7 @@ Perimeter of Sqare (or) Rectangle: = 168.000
 ---------
 # Program no.:-7
 Write a code to print  a factorial
-###Input of the program
+### Input of the program
 ```c
 #include <stdio.h>
 int main()
@@ -208,7 +203,7 @@ return 0;
 ----------
 # Program no.:-8
 Write a code to print to check the timings
-###Input of the program
+### Input of the program
 ```c
 #include <stdio.h>
 clock_t start, end;
@@ -221,7 +216,7 @@ cpu_time_used = ((double) (end - start)) / CLOCKS_PER_SEC;
 -----------
 # Program no.:-9
 Write a code to print farnehite to centrigrade
-###Input of the program
+### Input of the program
 ```c
 #include<stdio.h>
 Int main()
@@ -239,7 +234,7 @@ return 0;
 ----------
 # Program no.:-10
  Write a code to print the table of any number
-###Input of the program
+### Input of the program
 ```c
 #include<stdio.h>
 Int main()
@@ -258,7 +253,7 @@ printf("\n");
 ---------
 # Program no.:-11
 Write a code to print program of the prime numbers
-###Input of the program
+### Input of the program
 ```c
 #include <stdio.h>
 int main() {
@@ -287,13 +282,17 @@ int main() {
 
     return 0;
 }
-output of the program
+```
+### output of the program
+```c
 Enter a positive integer: 29
 29 is a prime number
+```
 ------------
 # Program no.:-12
  Write a code to print program of the swap of numbers using temporary variables
-Input of the program
+### Input of the program
+```c
 #include<stdio.h>
 int main() {
       double first, second, temp;
@@ -301,30 +300,28 @@ int main() {
       scanf("%lf", &first);
       printf("Enter second number: ");
       scanf("%lf", &second);
-
-      // Value of first is assigned to temp
-      temp = first;
-
-      // Value of second is assigned to first
-      first = second;
-
-      // Value of temp (initial value of first) is assigned to second
-      second = temp;
+     temp = first;
+     first = second;
+     second = temp;
 
       printf("\nAfter swapping, firstNumber = %.2lf\n", first);
       printf("After swapping, secondNumber = %.2lf", second);
       return 0;
 }
-output of the program
+```
+### output of the program
+```c
 Enter first number: 1.20
 Enter second number: 2.45
 
 After swapping, firstNumber = 2.45
 After swapping, secondNumber = 1.20
+```
 -----------
 # Program no.:-13
  Write a code to print program of area and perimeter of the circle
-Input of the program
+### Input of the program
+```c
 #include <stdio.h> 
 int main() {
    int radius;
@@ -339,13 +336,17 @@ int main() {
 
 return(0);
 }
-output of the program
+```
+### output of the program
+```c
 Perimeter of the Circle = 37.680000 inches                             
-Area of the Circle = 113.040001 square inche
+Area of the Circle = 113.040001 square inches
+```
 ----------
 # Program no.:-14
  Write a code to print program to find interest 
-Input of the program
+### Input of the program
+```c
 #include<stdio.h>
 int main()
 {
@@ -360,12 +361,12 @@ Interest = P*T*R/100;
 printf("\nSimple Intesest is: = %.2f", Interest);
 return Interest;
 }
-
-output of the program
+```
 ----------
 # Program no.:-15
 Write a code to print program to find maximum number
-Input of the program
+### Input of the program
+```c
 #include<stdio.h>
 int max(float x,float y);
 int main()
@@ -386,13 +387,13 @@ if(x<y)
 result = y;
 else
 result = x;
-return result;
+return 0;
 }
-output of the program
+```
 ------------
 # Program no.:-16
  Write a code to print program to find minimum number
-Input of the program
+### Input of the program
 ```C
 #include<stdio.h>
 int min(float x,float y);
@@ -418,14 +419,16 @@ return result;
 }
 ```
 ### Output of the program
+```c
 Enter The First Value: 5
 Enter The SecondValue: 3
 Minimum value is: 3.00
-###
+```
 ---------
 # Program no.:-17
 Write a code to print program to find a power of number
-Input of the program
+### Input of the program
+```c
 #include<stdio.h>
 int main()
 {
@@ -440,14 +443,13 @@ power--; }
 printf("Answer = %d\n", ans);
 return 0;
 }
-output of the program
+```
 --------
 # Program no.:-18
 Write a code to print program to find square root of number
-Input of the program
+### Input of the program
+```c
 #include <stdio.h>
-#include <math.h>
-
 int main()
 {
     double num, root;
@@ -464,13 +466,17 @@ int main()
 
     return 0;
 }
-output of the program
+```
+### output of the program
+```c
 Enter any number to find square root: 144
 Square root of 144.00 = 12.00
+```
 ---------
 # Program no.:-19
 Write a code to print program to find the swap of number without using temporary variables
-Input of the program
+### Input of the program
+```c
     #include<stdio.h>  
      int main()    
     {    
@@ -481,14 +487,18 @@ Input of the program
     a=a-b;//a=20 (30-10)    
     printf("\nAfter swap a=%d b=%d",a,b);    
     return 0;  
-    }   
-output of the program
+    } 
+ ```
+### output of the program
+```c
 Before swap a=10 b=20
 After swap a=20 b=10
+```
 ----------
 # Program no.:-20
  Write a code to print program to use arithmetic operators
-Input of the program
+### Input of the program
+```c
 #include<stdio.h>
 int main()
 {
@@ -511,11 +521,11 @@ a = y/x;
 printf("y/x = %.3f\n",a);
 return 0;
 }
-output of the program
+```
 ----------------
 # Program no.:-21
  Write a code to print program to use assignment operators
-Input of the program
+### Input of the program
 ```C
 #include<stdio.h>
 int main()
@@ -537,17 +547,18 @@ return 0;
 }
 ```
 ### Output of the program
+```c
 Enter The Value of x: 45
 Answer is a = x 45.000
 Answer is a+x = 90.000
 Answer is a-x = 45.000
 Answer is a*x = 2025.000
 Answer is a/x= 45.000
-
+```
 ------------
 # Program no.:-22
  Write a code to print program to use operator precedence
-Input of the program
+### Input of the program
 ```C
 #include<stdio.h>
 int main()
@@ -573,6 +584,7 @@ return 0;
 }
 ```
 ### Output of the program
+```c
 Enter The Value of a: 45
 Enter The Value of b: 31
 Enter The Value of c: 18
@@ -581,10 +593,12 @@ Enter The Value of d: 71
 (c+d)*a*b = 124155.000
 a*d/(c-b-a) = -55.086
 (b-c)*(a-d) = -338.000
+```
 ----------
 # Program no.:-23
 Write a code to print program to find average
-Input of the program
+### Input of the program
+```c
 #include<stdio.h>
 int main()
 {
@@ -601,11 +615,12 @@ ans = s/N;
 printf("\nAverage of %d elements = %.3f", N, ans);
 return 0;
 }
-output of the program
+```
 ----------
 # Program no.:-24
 Write a code to print program for addition of 2*2 matrices
-Input of the program
+### Input of the program
+```c
 #include <stdio.h>
 int main() {
     int r, c, a[100][100], b[100][100], sum[100][100], i, j;
@@ -633,7 +648,9 @@ int main() {
         for (j = 0; j < c; ++j) {
             sum[i][j] = a[i][j] + b[i][j];
         }
-output of the program
+```
+### output of the program
+```c
 Enter the number of rows (between 1 and 100): 2
 Enter the number of columns (between 1 and 100): 3
 
@@ -656,10 +673,11 @@ Sum of two matrices:
 -2   8   7   
 
 10   8   6  
+```
 --------
 # Program no.:-25
 Write a code to print program to take 5 values from the user and store them in an array and print the elements.
-###Input of the program
+### Input of the program
 ```C
 #include<stdio.h>
 int main()
@@ -675,6 +693,7 @@ return 0;
 }
 ```
 ### Output of the Program
+```c
 Enter [1] element: 4
 Enter [2] element: 5
 Enter [3] element: 6
@@ -685,10 +704,12 @@ Element [2] = 5
 Element [3] = 6
 Element [4] = 9
 Element [5] = 2
+```
 -------
 # Program no.:-26
-wite a code to print program the number is even or odd using if-else loop
-Input of the program
+write a code to print program the number is even or odd using if-else loop
+### Input of the program
+```c
 #include <stdio.h>
 int main() {
     int num;
@@ -703,13 +724,17 @@ int main() {
     
     return 0;
 }
-###Output of the program
+```
+### Output of the program
+```c
 Enter an integer: -7
 -7 is odd
+```
 --------
 # Program no.:-27
 write a code to print program for sum of first natural numbers using for loop
-Input of the program
+### Input of the program
+```c
 #include <stdio.h>
 int main() {
     int n, i, sum = 0;
@@ -724,14 +749,16 @@ int main() {
     printf("Sum = %d", sum);
     return 0;
 }
-
-output of the program
+```
+### output of the program
+```c
 Enter a positive integer: 100
 Sum = 5050
+```
 --------
 # Program no.:-28
 write a code to print Fizzbuzz of a integer
-Input of the program
+### Input of the program
 ```C
 #include<stdio.h>
 int main()
@@ -751,12 +778,14 @@ return 0;
 }
 ```
 ### Output of the program
+```c
 Enter the Interger: 171
 Fizz
+```
 ----------
 # Program no.:-29
 write a code to print  Program of FizzBuzz in a continues loop
-input of the program
+### input of the program
 ```C
 #include<stdio.h>
 int main()
@@ -780,6 +809,7 @@ return 0;
 }
 ```
 ### Output of the program
+```c
 Enter The Integer: 17
 1
 2
@@ -798,12 +828,12 @@ Fizz
 FizzBuzz
 16
 17
-output of the program
+```
 -----
 # Program no.:-30
 Write a computer program in C, to print nth term, and sum up to nth term for series
-
-Input of the program
+### Input of the program
+```c
 #include <stdio.h>
 int nth_ap(int a, int d, int n) {
    // using formula to find the
@@ -821,12 +851,15 @@ int main() {
    printf("The %dth term of AP :%d\n", n, nth_ap(a,d,n));
    return 0;
 }
-output of the program
+```
+###output of the program
+```c
 The 5th term of the series is: 6
+```
 ------
 # Program no.:-31
 Write a computer program in C, which take integer input from user. If entered value > 10, it will call a function, which prints multiplication table of of entered number, from 1 to 10.
-Input of the program
+### Input of the program
 #include <stdio.h>
 
 int main()
@@ -844,7 +877,9 @@ int main()
 
     return 0;
 }
-output of the program
+```
+### output of the program
+```c
 Enter number to print table of: 5
 5 * 1 = 5
 5 * 2 = 10
@@ -856,10 +891,12 @@ Enter number to print table of: 5
 5 * 8 = 40
 5 * 9 = 45
 5 * 10 = 50
+```
 --------
 # Program no.:-32
 write a code to print program of game of life
-Input of the program
+### Input of the program
+```c
 // A simple Java program to implement Game of Life 
 public class GameOfLife 
 { 
@@ -951,7 +988,9 @@ public class GameOfLife
         } 
     } 
 } 
-output of the program
+```
+### output of the program
+```c
 Original Generation
 ..........
 ...**.....
@@ -976,9 +1015,11 @@ Next Generation
 ..........
 .........
 ------
+```
 # Program no.:-33
 Write a C Program to Check Whether a Number is Positive or Negative
-Input of the program
+### Input of the program
+```c
 #include <stdio.h>
 int main() {
     double num;
@@ -993,53 +1034,27 @@ int main() {
         printf("You entered a positive number.");
     return 0;
 }
-
-output of the program
+```
+### output of the program
+```c
 Enter a number: 12.3
 You entered a positive number.
+```
 -------
 # Program no.:-34
-C Program to Display Characters from A to Z Using Loop
-Input of the program
+ write a C Program to Display Characters from A to Z Using Loop
+### Input of the program
+```c
 #include <stdio.h>
 int main() {
     char c;
     for (c = 'A'; c <= 'Z'; ++c)
         printf("%c ", c);
- 
-output of the program
+	return 0;
+```
+ ### output of the program
+```c
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
--------------
-# Program no.:-35
-Input of the program
-output of the program
------------------
-# Program no.:-36
-Input of the program
-output of the program
--------------
-# Program no.:-37
-Input of the program
-output of the program
--------------
-# Program no.:-38
-Input of the program
-output of the program
+```
 -----------
-# Program no.:-39
-Input of the program
-output of the program
------------
-# Program no.:-40
-Input of the program
-output of the program
-----------------
-# Program no.:-41
-Input of the program
-output of the program
-------------------
-# Program no.:-
-Input of the program
-output of the program
--------------
 
